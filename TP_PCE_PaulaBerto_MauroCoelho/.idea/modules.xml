@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP_PCE_PaulaBerto_MauroCoelho.iml" filepath="$PROJECT_DIR$/TP_PCE_PaulaBerto_MauroCoelho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupoI/grupoI.iml" filepath="$PROJECT_DIR$/grupoI/grupoI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupoII/grupoII.iml" filepath="$PROJECT_DIR$/grupoII/grupoII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupoIII/grupoIII.iml" filepath="$PROJECT_DIR$/grupoIII/grupoIII.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_01/Exercicio_01.iml" filepath="$PROJECT_DIR$/Exercicio_01/Exercicio_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_02/Exercicio_02.iml" filepath="$PROJECT_DIR$/Exercicio_02/Exercicio_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_03_nao_fiz/Exercicio_03.iml" filepath="$PROJECT_DIR$/Exercicio_03_nao_fiz/Exercicio_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_04/Exercicio_04.iml" filepath="$PROJECT_DIR$/Exercicio_04/Exercicio_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_05/Exercicio_05.iml" filepath="$PROJECT_DIR$/Exercicio_05/Exercicio_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_06/Exercicio_06.iml" filepath="$PROJECT_DIR$/Exercicio_06/Exercicio_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_07_nao_fiz/Exercicio_07.iml" filepath="$PROJECT_DIR$/Exercicio_07_nao_fiz/Exercicio_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_08/Exercicio_08.iml" filepath="$PROJECT_DIR$/Exercicio_08/Exercicio_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste.iml" filepath="$PROJECT_DIR$/teste.iml" />
+    </modules>
+  </component>
+</project>
